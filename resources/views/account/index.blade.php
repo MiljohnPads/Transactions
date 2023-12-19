@@ -20,7 +20,7 @@
         <th>USER NAME</th>
         <th>TYPE</th>
         <th>BALANCE</th>
-
+        <th>EDIT</th>
     </thead>
     <tbody>
         @foreach ($accounts as $account)

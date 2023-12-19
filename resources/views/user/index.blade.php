@@ -24,6 +24,7 @@
         <th>PHONE</th>
         <th>SEX</th>
         <th>OCCUPATION</th>
+        <th>EDIT</th>
     </thead>
     <tbody>
         @foreach ($users as $user)

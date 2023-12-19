@@ -23,6 +23,7 @@
         <th>TYPE</th>
         <th>DATE</th>
         <th>SOURCE</th>
+        <th>EDIT</th>
     </thead>
     <tbody>
         @foreach ($transactions as $transaction)
